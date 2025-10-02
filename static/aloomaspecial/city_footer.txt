@@ -1,0 +1,52 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is included in your portable toilet services?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">All rentals include delivery, setup, servicing, cleaning, and waste disposal handled by certified technicians.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What types of porta-potties can I request for same-day delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer standard, ADA-compliant units, restroom trailers, and handwashing stations depending on your needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you provide cleaning services during long-term rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our crews perform scheduled maintenance, cleaning, and restocking to ensure ongoing hygiene.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How many portable toilets should I rent for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">As a rule, one unit serves 50 people for 4–6 hours. Porta September 9 can help determine the right number based on your event size and duration.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How quickly can I get porta-potties delivered?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Same-day and next-day delivery is available, depending on current demand.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you handle waste disposal?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our licensed staff manages waste collection, transport, and disposal in compliance with state and federal regulations.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
